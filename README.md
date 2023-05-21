@@ -1,10 +1,10 @@
 # React-Dashboard
-# Getting Started
-$ git clone https://github.com/Fitbhairav/React-Dashboard.git
-$ cd ./react-dashboard
-$ npm install package.json           # Install all packages included in ./package.json file
+# Getting Started <br/>
+$ git clone https://github.com/Fitbhairav/React-Dashboard.git <br/>
+$ cd ./react-dashboard <br/>
+$ npm install package.json           # Install all packages included in ./package.json file <br/>
 
-# How to Run
-$ npm run start
+# How to Run <br/>
+$ npm run start <br/>
 
-# Live Demo Here :-
+# Live Demo Here :- <br/>
